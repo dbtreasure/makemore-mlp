@@ -1,0 +1,138 @@
+Current best loss:  2.239733041691245
+Current best embedding size:  2
+Current best hidden size:  100
+Current best learning rate:  0.1
+Current validation loss:  2.239867694414682
+[][][][][][][][][][][]
+Current best loss:  2.232458601555517
+Current best embedding size:  2
+Current best hidden size:  150
+Current best learning rate:  0.1
+Current validation loss:  2.231543315409945
+[][][][][][][][][][][]
+Current best loss:  2.231534537058559
+Current best embedding size:  2
+Current best hidden size:  250
+Current best learning rate:  0.1
+Current validation loss:  2.231130409708866
+[][][][][][][][][][][]
+Current best loss:  2.226823933077728
+Current best embedding size:  2
+Current best hidden size:  300
+Current best learning rate:  0.1
+Current validation loss:  2.2267742929418493
+[][][][][][][][][][][]
+Current best loss:  2.223254302628913
+Current best embedding size:  2
+Current best hidden size:  400
+Current best learning rate:  0.1
+Current validation loss:  2.2223362894245486
+[][][][][][][][][][][]
+Current best loss:  2.208125872205718
+Current best embedding size:  3
+Current best hidden size:  100
+Current best learning rate:  0.1
+Current validation loss:  2.2135109478427517
+[][][][][][][][][][][]
+Current best loss:  2.1909017174976237
+Current best embedding size:  3
+Current best hidden size:  150
+Current best learning rate:  0.1
+Current validation loss:  2.1970289793455917
+[][][][][][][][][][][]
+Current best loss:  2.1839272981355435
+Current best embedding size:  3
+Current best hidden size:  250
+Current best learning rate:  0.1
+Current validation loss:  2.188112594970981
+[][][][][][][][][][][]
+Current best loss:  2.183837354601182
+Current best embedding size:  3
+Current best hidden size:  300
+Current best learning rate:  0.1
+Current validation loss:  2.188999831927274
+[][][][][][][][][][][]
+Current best loss:  2.1677735082564817
+Current best embedding size:  4
+Current best hidden size:  150
+Current best learning rate:  0.1
+Current validation loss:  2.18108452653818
+[][][][][][][][][][][]
+Current best loss:  2.164379039536352
+Current best embedding size:  4
+Current best hidden size:  200
+Current best learning rate:  0.1
+Current validation loss:  2.1779118062403224
+[][][][][][][][][][][]
+Current best loss:  2.1594778096608995
+Current best embedding size:  4
+Current best hidden size:  250
+Current best learning rate:  0.1
+Current validation loss:  2.169521828687542
+[][][][][][][][][][][]
+Current best loss:  2.1553613466601216
+Current best embedding size:  4
+Current best hidden size:  300
+Current best learning rate:  0.1
+Current validation loss:  2.1768910826339294
+[][][][][][][][][][][]
+Current best loss:  2.1532785829161862
+Current best embedding size:  4
+Current best hidden size:  400
+Current best learning rate:  0.1
+Current validation loss:  2.1624621024138464
+[][][][][][][][][][][]
+Current best loss:  2.1504043001906235
+Current best embedding size:  5
+Current best hidden size:  250
+Current best learning rate:  0.1
+Current validation loss:  2.1664256176808103
+[][][][][][][][][][][]
+Current best loss:  2.1478522875115047
+Current best embedding size:  5
+Current best hidden size:  300
+Current best learning rate:  0.1
+Current validation loss:  2.1638986136435125
+[][][][][][][][][][][]
+Current best loss:  2.1334643621222336
+Current best embedding size:  5
+Current best hidden size:  350
+Current best learning rate:  0.1
+Current validation loss:  2.152115803614238
+[][][][][][][][][][][]
+Current best loss:  2.1322888664451924
+Current best embedding size:  5
+Current best hidden size:  500
+Current best learning rate:  0.1
+Current validation loss:  2.146975283368607
+[][][][][][][][][][][]
+Current best loss:  2.1154141024820934
+Current best embedding size:  5
+Current best hidden size:  600
+Current best learning rate:  0.1
+Current validation loss:  2.152157348135243
+[][][][][][][][][][][]
+Current best loss:  2.0870330649706292
+Current best embedding size:  5
+Current best hidden size:  750
+Current best learning rate:  0.1
+Current validation loss:  2.1366098900162322
+[][][][][][][][][][][]
+Current best loss:  2.0861798505629263
+Current best embedding size:  5
+Current best hidden size:  900
+Current best learning rate:  0.1
+Current validation loss:  2.1657562921291316
+[][][][][][][][][][][]
+Current best loss:  2.0849111719059574
+Current best embedding size:  5
+Current best hidden size:  950
+Current best learning rate:  0.1
+Current validation loss:  2.1861093183051987
+[][][][][][][][][][][]
+Current best loss:  2.0838253061701173
+Current best embedding size:  7
+Current best hidden size:  550
+Current best learning rate:  0.1
+Current validation loss:  2.1547446289370136
+[][][][][][][][][][][]
