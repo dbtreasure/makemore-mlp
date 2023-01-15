@@ -41,6 +41,9 @@ class StepByStep(object):
             print(f'Could not move to {device}, using {self.device} instead')
             self.model.to(self.device)
     
+    def set_optimizer(self, optimizer):
+        self.optimizer = optimizer
+
     def set_loaders(self, train_loader, val_loader=None, test_loader=None):
         self.train_loader = train_loader
         self.validation_loader = val_loader
@@ -135,9 +138,6 @@ class StepByStep(object):
     def train(self, n_epochs, main_tag='training_loss'):
         for epoch in range(n_epochs):
             self.total_epochs += 1
-            print(f'Epoch {self.total_epochs} of {n_epochs}...')
-            if self.losses != []:
-                print(f'Loss: {self.losses[-1]}')
             loss = self._mini_batch(validation=False)
             self.losses.append(loss)
             if self.writer is not None:
@@ -157,6 +157,7 @@ class StepByStep(object):
                 self.val_losses.append(val_loss)
             
             if self.writer is not None:
+                scalars = {f'c_dim:{self.model.C.shape[1]},w1_dim:{self.model.W1.shape[1]},lr:{self.optimizer.state_dict()["param_groups"][0]["lr"]},momentum:{self.optimizer.state_dict()["param_groups"][0]["momentum"]}': val_loss}
                 if val_loss is not None:
                     scalars.update({'validation': val_loss})
                 self.writer.add_scalars(main_tag=main_tag, tag_scalar_dict=scalars, global_step=epoch)
